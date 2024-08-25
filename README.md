@@ -1,1 +1,1 @@
-# PlottPal
+# PlotPal
